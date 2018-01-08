@@ -1,2 +1,3 @@
 # IPC144
 Workshops
+In this course, the learning process to write a program begins...
